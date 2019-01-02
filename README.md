@@ -93,3 +93,8 @@ CHAPTER 31
   - To be sure you can type: git status
   - To save everything that you stash
     - git commit -m "type message"
+
+CHAPTER 33
+  - Add edit to the controller
+  - Create edit.html.erb at views/todos
+  - Add update to the controller
