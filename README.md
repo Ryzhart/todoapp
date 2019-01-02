@@ -81,3 +81,15 @@ CHAPTER 20
 CHAPTER 29
   - Flash (is a hash)
   - Todo.find(params[:id])
+  
+CHAPTER 31
+  - git config --global user.name "Ricardo Hernandez"
+  - git config --global user.email "ricardo.hdez.n@gmail.com"
+  - Initialize a git repository for the application
+    - Make sure you are in the root of the rails application
+    - git init
+  - Add all of your file in the stashing area
+    - git add -Add
+  - To be sure you can type: git status
+  - To save everything that you stash
+    - git commit -m "type message"
