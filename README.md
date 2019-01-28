@@ -98,3 +98,8 @@ CHAPTER 33
   - Add edit to the controller
   - Create edit.html.erb at views/todos
   - Add update to the controller
+
+CHAPTER 36
+  - Add index action to the controller
+  - Create index.html.erb
+  - to create a link call ruby %= link_to
